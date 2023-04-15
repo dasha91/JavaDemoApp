@@ -1,0 +1,3 @@
+INDEX VERSION 1.132
+/Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1698559553.index
+/Java-Demo-Project/src/main/java
