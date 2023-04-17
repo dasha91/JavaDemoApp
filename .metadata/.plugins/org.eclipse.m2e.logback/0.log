@@ -754,3 +754,418 @@ Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: expected ST
 2023-04-14 17:41:08,896 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/main/resources
 2023-04-14 17:41:08,910 [Worker-109: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
 2023-04-14 17:41:08,913 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/test/resources
+2023-04-15 10:39:07,103 [Worker-124: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-15 10:39:07,124 [Worker-124: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/main/resources
+2023-04-15 10:39:07,127 [Worker-124: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-15 10:39:07,128 [Worker-124: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/test/resources
+2023-04-15 10:39:09,197 [Worker-124: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-15 10:39:09,200 [Worker-124: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/main/resources
+2023-04-15 10:39:09,201 [Worker-124: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-15 10:39:09,202 [Worker-124: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/test/resources
+2023-04-15 10:39:45,498 [Worker-122: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-15 10:39:45,504 [Worker-122: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/main/resources
+2023-04-15 10:39:45,512 [Worker-122: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-15 10:39:45,513 [Worker-122: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/test/resources
+2023-04-15 10:40:21,112 [Worker-130: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-15 10:40:21,119 [Worker-130: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/main/resources
+2023-04-15 10:40:21,121 [Worker-130: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-15 10:40:21,122 [Worker-130: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/test/resources
+2023-04-15 10:40:31,350 [Worker-130: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-15 10:40:31,352 [Worker-130: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/main/resources
+2023-04-15 10:40:31,353 [Worker-130: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-15 10:40:31,354 [Worker-130: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/test/resources
+2023-04-15 10:45:43,024 [Worker-135: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-15 10:45:43,032 [Worker-135: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/main/resources
+2023-04-15 10:45:43,034 [Worker-135: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-15 10:45:43,036 [Worker-135: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/test/resources
+2023-04-15 10:46:00,496 [Worker-136: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-15 10:46:00,502 [Worker-136: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/main/resources
+2023-04-15 10:46:00,503 [Worker-136: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-15 10:46:00,505 [Worker-136: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/test/resources
+2023-04-15 10:46:44,855 [Worker-122: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-15 10:46:44,859 [Worker-122: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/main/resources
+2023-04-15 10:46:44,863 [Worker-122: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-15 10:46:44,866 [Worker-122: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/test/resources
+2023-04-15 10:47:28,181 [Worker-122: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-15 10:47:28,182 [Worker-122: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/main/resources
+2023-04-15 10:47:28,187 [Worker-122: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-15 10:47:28,188 [Worker-122: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/test/resources
+2023-04-15 10:50:19,824 [Worker-122: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-15 10:50:19,825 [Worker-122: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/main/resources
+2023-04-15 10:50:19,827 [Worker-122: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-15 10:50:19,828 [Worker-122: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/test/resources
+2023-04-15 10:54:35,146 [Worker-140: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-15 10:54:35,156 [Worker-140: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/main/resources
+2023-04-15 10:54:35,159 [Worker-140: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-15 10:54:35,159 [Worker-140: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/test/resources
+2023-04-15 10:54:37,201 [Worker-137: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-15 10:54:37,203 [Worker-137: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/main/resources
+2023-04-15 10:54:37,204 [Worker-137: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-15 10:54:37,205 [Worker-137: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/test/resources
+2023-04-15 10:58:35,476 [Worker-133: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-15 10:58:35,486 [Worker-133: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/main/resources
+2023-04-15 10:58:35,489 [Worker-133: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-15 10:58:35,490 [Worker-133: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/test/resources
+2023-04-15 10:58:44,978 [Worker-133: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-15 10:58:44,980 [Worker-133: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/main/resources
+2023-04-15 10:58:44,985 [Worker-133: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-15 10:58:44,986 [Worker-133: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/test/resources
+2023-04-15 10:59:37,223 [Worker-142: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-15 10:59:37,224 [Worker-142: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/main/resources
+2023-04-15 10:59:37,227 [Worker-142: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-15 10:59:37,228 [Worker-142: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/test/resources
+2023-04-15 10:59:41,448 [Worker-140: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-15 10:59:41,450 [Worker-140: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/main/resources
+2023-04-15 10:59:41,452 [Worker-140: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-15 10:59:41,452 [Worker-140: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/test/resources
+2023-04-15 10:59:59,408 [Worker-140: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-15 10:59:59,410 [Worker-140: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/main/resources
+2023-04-15 10:59:59,411 [Worker-140: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-15 10:59:59,412 [Worker-140: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/test/resources
+2023-04-15 11:00:19,058 [Worker-133: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-15 11:00:19,059 [Worker-133: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/main/resources
+2023-04-15 11:00:19,061 [Worker-133: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-15 11:00:19,062 [Worker-133: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/test/resources
+2023-04-15 11:00:20,205 [Worker-143: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-15 11:00:20,210 [Worker-143: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/main/resources
+2023-04-15 11:00:20,211 [Worker-143: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-15 11:00:20,216 [Worker-143: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/test/resources
+2023-04-15 11:01:44,037 [Worker-144: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-15 11:01:44,043 [Worker-144: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/main/resources
+2023-04-15 11:01:44,045 [Worker-144: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-15 11:01:44,046 [Worker-144: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/test/resources
+2023-04-15 11:02:43,203 [Worker-133: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-15 11:02:43,211 [Worker-133: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/main/resources
+2023-04-15 11:02:43,214 [Worker-133: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-15 11:02:43,215 [Worker-133: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/test/resources
+2023-04-15 11:02:50,873 [Worker-145: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-15 11:02:50,874 [Worker-145: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/main/resources
+2023-04-15 11:02:50,877 [Worker-145: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-15 11:02:50,878 [Worker-145: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/test/resources
+2023-04-15 11:12:49,503 [Worker-144: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-15 11:12:49,517 [Worker-144: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/main/resources
+2023-04-15 11:12:49,519 [Worker-144: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-15 11:12:49,519 [Worker-144: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/test/resources
+2023-04-15 11:13:26,405 [Worker-145: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-15 11:13:26,407 [Worker-145: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/main/resources
+2023-04-15 11:13:26,409 [Worker-145: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-15 11:13:26,410 [Worker-145: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/test/resources
+2023-04-15 11:14:18,088 [Worker-145: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-15 11:14:18,090 [Worker-145: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/main/resources
+2023-04-15 11:14:18,091 [Worker-145: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-15 11:14:18,092 [Worker-145: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/test/resources
+2023-04-15 11:35:45,835 [Worker-151: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-15 11:35:45,850 [Worker-151: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/main/resources
+2023-04-15 11:35:45,852 [Worker-151: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-15 11:35:45,853 [Worker-151: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/test/resources
+2023-04-15 11:36:48,135 [Worker-146: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-15 11:36:48,138 [Worker-146: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/main/resources
+2023-04-15 11:36:48,139 [Worker-146: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-15 11:36:48,140 [Worker-146: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/test/resources
+2023-04-17 10:29:28,706 [Worker-157: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 10:29:28,721 [Worker-157: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/main/resources
+2023-04-17 10:29:28,722 [Worker-157: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 10:29:28,724 [Worker-157: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/test/resources
+2023-04-17 10:30:24,077 [Worker-157: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 10:30:24,079 [Worker-157: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/main/resources
+2023-04-17 10:30:24,080 [Worker-157: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 10:30:24,080 [Worker-157: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/test/resources
+2023-04-17 10:31:58,106 [Worker-156: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 10:31:58,107 [Worker-156: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/main/resources
+2023-04-17 10:31:58,108 [Worker-156: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 10:31:58,109 [Worker-156: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/test/resources
+2023-04-17 10:32:44,062 [Worker-162: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 10:32:44,069 [Worker-162: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/main/resources
+2023-04-17 10:32:44,071 [Worker-162: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 10:32:44,073 [Worker-162: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/test/resources
+2023-04-17 10:33:04,460 [Worker-157: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 10:33:04,462 [Worker-157: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/main/resources
+2023-04-17 10:33:04,462 [Worker-157: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 10:33:04,463 [Worker-157: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/test/resources
+2023-04-17 10:33:08,886 [Worker-157: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 10:33:08,894 [Worker-157: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/main/resources
+2023-04-17 10:33:08,896 [Worker-157: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 10:33:08,897 [Worker-157: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/test/resources
+2023-04-17 10:33:19,513 [Worker-161: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 10:33:19,516 [Worker-161: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/main/resources
+2023-04-17 10:33:19,518 [Worker-161: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 10:33:19,519 [Worker-161: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/test/resources
+2023-04-17 10:35:45,903 [Worker-160: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 10:35:45,904 [Worker-160: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/main/resources
+2023-04-17 10:35:45,907 [Worker-160: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 10:35:45,908 [Worker-160: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/test/resources
+2023-04-17 10:36:12,214 [Worker-160: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 10:36:12,215 [Worker-160: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/main/resources
+2023-04-17 10:36:12,216 [Worker-160: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 10:36:12,217 [Worker-160: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/test/resources
+2023-04-17 10:41:52,811 [Worker-171: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 10:41:52,833 [Worker-171: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/main/resources
+2023-04-17 10:41:52,837 [Worker-171: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 10:41:52,838 [Worker-171: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/test/resources
+2023-04-17 10:42:05,054 [Worker-172: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 10:42:05,055 [Worker-172: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/main/resources
+2023-04-17 10:42:05,057 [Worker-172: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 10:42:05,057 [Worker-172: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/test/resources
+2023-04-17 10:43:37,325 [Worker-175: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 10:43:37,326 [Worker-175: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/main/resources
+2023-04-17 10:43:37,327 [Worker-175: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 10:43:37,327 [Worker-175: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/test/resources
+2023-04-17 10:51:38,060 [Worker-186: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 10:51:38,066 [Worker-186: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/main/resources
+2023-04-17 10:51:38,068 [Worker-186: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 10:51:38,070 [Worker-186: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/test/resources
+2023-04-17 10:51:48,874 [Worker-175: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 10:51:48,878 [Worker-175: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/main/resources
+2023-04-17 10:51:48,882 [Worker-175: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 10:51:48,885 [Worker-175: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/test/resources
+2023-04-17 10:59:08,931 [Worker-186: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 10:59:08,937 [Worker-186: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/main/resources
+2023-04-17 10:59:08,939 [Worker-186: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 10:59:08,939 [Worker-186: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/test/resources
+2023-04-17 10:59:18,345 [Worker-190: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 10:59:18,346 [Worker-190: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/main/resources
+2023-04-17 10:59:18,347 [Worker-190: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 10:59:18,348 [Worker-190: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/test/resources
+2023-04-17 10:59:23,358 [Worker-190: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 10:59:23,374 [Worker-190: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/main/resources
+2023-04-17 10:59:23,378 [Worker-190: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 10:59:23,380 [Worker-190: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/test/resources
+2023-04-17 10:59:55,663 [Worker-190: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 10:59:55,664 [Worker-190: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/main/resources
+2023-04-17 10:59:55,665 [Worker-190: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 10:59:55,665 [Worker-190: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/test/resources
+2023-04-17 11:00:03,708 [Worker-190: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 11:00:03,711 [Worker-190: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/main/resources
+2023-04-17 11:00:03,712 [Worker-190: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 11:00:03,716 [Worker-190: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/test/resources
+2023-04-17 11:00:56,649 [Worker-190: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 11:00:56,653 [Worker-190: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/main/resources
+2023-04-17 11:00:56,660 [Worker-190: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 11:00:56,662 [Worker-190: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/test/resources
+2023-04-17 11:01:25,883 [Worker-189: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 11:01:25,884 [Worker-189: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/main/resources
+2023-04-17 11:01:25,885 [Worker-189: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 11:01:25,886 [Worker-189: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/test/resources
+2023-04-17 11:02:14,888 [Worker-190: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 11:02:14,890 [Worker-190: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/main/resources
+2023-04-17 11:02:14,891 [Worker-190: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 11:02:14,893 [Worker-190: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/test/resources
+2023-04-17 11:02:21,108 [Worker-191: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 11:02:21,109 [Worker-191: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/main/resources
+2023-04-17 11:02:21,110 [Worker-191: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 11:02:21,111 [Worker-191: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/test/resources
+2023-04-17 11:04:11,700 [Worker-189: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 11:04:11,706 [Worker-189: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/main/resources
+2023-04-17 11:04:11,708 [Worker-189: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 11:04:11,708 [Worker-189: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/test/resources
+2023-04-17 11:04:28,980 [Worker-191: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 11:04:28,981 [Worker-191: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/main/resources
+2023-04-17 11:04:28,982 [Worker-191: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 11:04:28,986 [Worker-191: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/test/resources
+2023-04-17 11:07:04,845 [Worker-186: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 11:07:04,846 [Worker-186: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/main/resources
+2023-04-17 11:07:04,847 [Worker-186: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 11:07:04,848 [Worker-186: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/test/resources
+2023-04-17 11:09:00,606 [Worker-195: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 11:09:00,627 [Worker-195: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/main/resources
+2023-04-17 11:09:00,632 [Worker-195: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 11:09:00,633 [Worker-195: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/test/resources
+2023-04-17 11:11:16,458 [Worker-192: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 11:11:16,461 [Worker-192: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/main/resources
+2023-04-17 11:11:16,463 [Worker-192: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 11:11:16,463 [Worker-192: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/test/resources
+2023-04-17 11:11:30,927 [Worker-197: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 11:11:30,934 [Worker-197: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/main/resources
+2023-04-17 11:11:30,936 [Worker-197: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 11:11:30,938 [Worker-197: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/test/resources
+2023-04-17 11:12:28,349 [Worker-200: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 11:12:28,358 [Worker-200: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/main/resources
+2023-04-17 11:12:28,360 [Worker-200: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 11:12:28,361 [Worker-200: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/test/resources
+2023-04-17 11:12:48,437 [Worker-195: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 11:12:48,439 [Worker-195: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/main/resources
+2023-04-17 11:12:48,440 [Worker-195: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 11:12:48,441 [Worker-195: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/test/resources
+2023-04-17 11:13:57,870 [Worker-182: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 11:13:57,871 [Worker-182: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/main/resources
+2023-04-17 11:13:57,872 [Worker-182: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 11:13:57,873 [Worker-182: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/test/resources
+2023-04-17 11:16:18,995 [Worker-198: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 11:16:19,026 [Worker-198: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/main/resources
+2023-04-17 11:16:19,028 [Worker-198: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 11:16:19,029 [Worker-198: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/test/resources
+2023-04-17 11:16:54,626 [Worker-198: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 11:16:54,628 [Worker-198: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/main/resources
+2023-04-17 11:16:54,629 [Worker-198: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 11:16:54,631 [Worker-198: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/test/resources
+2023-04-17 14:51:05,563 [Worker-195: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 14:51:05,577 [Worker-195: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/main/resources
+2023-04-17 14:51:05,580 [Worker-195: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 14:51:05,583 [Worker-195: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/test/resources
+2023-04-17 14:51:08,887 [Worker-207: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 14:51:08,889 [Worker-207: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/main/resources
+2023-04-17 14:51:08,890 [Worker-207: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 14:51:08,891 [Worker-207: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/test/resources
+2023-04-17 14:53:59,534 [Worker-195: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 14:53:59,550 [Worker-195: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/main/resources
+2023-04-17 14:53:59,554 [Worker-195: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 14:53:59,555 [Worker-195: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/test/resources
+2023-04-17 14:54:06,364 [Worker-207: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 14:54:06,365 [Worker-207: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/main/resources
+2023-04-17 14:54:06,367 [Worker-207: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 14:54:06,367 [Worker-207: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/test/resources
+2023-04-17 14:54:22,538 [Worker-205: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 14:54:22,539 [Worker-205: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/main/resources
+2023-04-17 14:54:22,540 [Worker-205: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 14:54:22,541 [Worker-205: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/test/resources
+2023-04-17 14:55:12,216 [Worker-195: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 14:55:12,217 [Worker-195: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/main/resources
+2023-04-17 14:55:12,218 [Worker-195: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 14:55:12,218 [Worker-195: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/test/resources
+2023-04-17 14:55:38,654 [Worker-206: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 14:55:38,655 [Worker-206: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/main/resources
+2023-04-17 14:55:38,656 [Worker-206: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 14:55:38,662 [Worker-206: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/test/resources
+2023-04-17 14:56:37,309 [Worker-207: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 14:56:37,312 [Worker-207: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/main/resources
+2023-04-17 14:56:37,313 [Worker-207: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 14:56:37,314 [Worker-207: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/test/resources
+2023-04-17 14:57:46,344 [Worker-205: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 14:57:46,352 [Worker-205: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/main/resources
+2023-04-17 14:57:46,354 [Worker-205: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 14:57:46,355 [Worker-205: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/test/resources
+2023-04-17 14:57:49,043 [Worker-204: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 14:57:49,044 [Worker-204: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/main/resources
+2023-04-17 14:57:49,045 [Worker-204: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 14:57:49,046 [Worker-204: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/test/resources
+2023-04-17 15:02:47,296 [Worker-211: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 15:02:47,313 [Worker-211: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/main/resources
+2023-04-17 15:02:47,314 [Worker-211: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 15:02:47,315 [Worker-211: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/test/resources
+2023-04-17 15:08:58,283 [Worker-213: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 15:08:58,287 [Worker-213: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/main/resources
+2023-04-17 15:08:58,289 [Worker-213: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 15:08:58,290 [Worker-213: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/test/resources
+2023-04-17 15:09:09,066 [Worker-214: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 15:09:09,067 [Worker-214: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/main/resources
+2023-04-17 15:09:09,068 [Worker-214: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 15:09:09,069 [Worker-214: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/test/resources
+2023-04-17 15:10:39,709 [Worker-216: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 15:10:39,716 [Worker-216: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/main/resources
+2023-04-17 15:10:39,718 [Worker-216: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 15:10:39,719 [Worker-216: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/test/resources
+2023-04-17 15:12:04,382 [Worker-217: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 15:12:04,390 [Worker-217: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/main/resources
+2023-04-17 15:12:04,393 [Worker-217: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 15:12:04,394 [Worker-217: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/test/resources
+2023-04-17 15:13:57,729 [Worker-212: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 15:13:57,734 [Worker-212: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/main/resources
+2023-04-17 15:13:57,735 [Worker-212: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 15:13:57,736 [Worker-212: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/test/resources
+2023-04-17 15:16:39,193 [Worker-212: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 15:16:39,203 [Worker-212: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/main/resources
+2023-04-17 15:16:39,205 [Worker-212: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 15:16:39,211 [Worker-212: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/test/resources
+2023-04-17 15:17:17,784 [Worker-212: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 15:17:17,786 [Worker-212: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/main/resources
+2023-04-17 15:17:17,787 [Worker-212: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 15:17:17,787 [Worker-212: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/test/resources
+2023-04-17 16:02:10,355 [main] ERROR o.e.m.j.u.i.DownloadSourcesActionDelegate - Could not schedule source download
+org.eclipse.jdt.core.JavaModelException: build/classes/com/CCIjavaDemo [in Java-Demo-Project] is not on its project's build path
+	at org.eclipse.jdt.internal.core.JavaElement.newJavaModelException(JavaElement.java:584)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:254)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:328)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:314)
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getKind(PackageFragmentRoot.java:530)
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getSourceAttachmentPath(PackageFragmentRoot.java:655)
+	at org.eclipse.m2e.jdt.ui.internal.DownloadSourcesActionDelegate.setActiveEditor(DownloadSourcesActionDelegate.java:50)
+	at org.eclipse.ui.internal.EditorPluginAction.editorChanged(EditorPluginAction.java:69)
+	at org.eclipse.ui.internal.EditorActionBuilder$EditorContribution.editorChanged(EditorActionBuilder.java:77)
+	at org.eclipse.ui.internal.EditorActionBuilder$ExternalContributor.setActiveEditor(EditorActionBuilder.java:123)
+	at org.eclipse.ui.internal.EditorActionBars.partChanged(EditorActionBars.java:338)
+	at org.eclipse.ui.internal.WorkbenchPage.updateActivations(WorkbenchPage.java:323)
+	at org.eclipse.ui.internal.WorkbenchPage$E4PartListener.partActivated(WorkbenchPage.java:212)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl$2.run(PartServiceImpl.java:250)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.firePartActivated(PartServiceImpl.java:247)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.activate(PartServiceImpl.java:774)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.activate(PartServiceImpl.java:683)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.activate(PartServiceImpl.java:678)
+	at org.eclipse.ui.internal.WorkbenchPage.busyOpenEditor(WorkbenchPage.java:3218)
+	at org.eclipse.ui.internal.WorkbenchPage.lambda$9(WorkbenchPage.java:3100)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:67)
+	at org.eclipse.ui.internal.WorkbenchPage.openEditor(WorkbenchPage.java:3098)
+	at org.eclipse.ui.internal.WorkbenchPage.openEditor(WorkbenchPage.java:3068)
+	at org.eclipse.ui.internal.WorkbenchPage.openEditor(WorkbenchPage.java:3059)
+	at org.eclipse.jdt.internal.ui.javaeditor.EditorUtility.openInEditor(EditorUtility.java:380)
+	at org.eclipse.jdt.internal.ui.javaeditor.EditorUtility.openInEditor(EditorUtility.java:184)
+	at org.eclipse.jdt.ui.actions.OpenAction.run(OpenAction.java:288)
+	at org.eclipse.jdt.ui.actions.OpenAction.run(OpenAction.java:254)
+	at org.eclipse.jdt.ui.actions.SelectionDispatchAction.dispatchRun(SelectionDispatchAction.java:274)
+	at org.eclipse.jdt.ui.actions.SelectionDispatchAction.run(SelectionDispatchAction.java:252)
+	at org.eclipse.jdt.internal.ui.navigator.OpenAndExpand.run(OpenAndExpand.java:53)
+	at org.eclipse.ui.actions.RetargetAction.run(RetargetAction.java:215)
+	at org.eclipse.ui.navigator.CommonNavigatorManager$1.open(CommonNavigatorManager.java:183)
+	at org.eclipse.ui.OpenAndLinkWithEditorHelper$InternalListener.open(OpenAndLinkWithEditorHelper.java:48)
+	at org.eclipse.jface.viewers.StructuredViewer$2.run(StructuredViewer.java:800)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:174)
+	at org.eclipse.jface.viewers.StructuredViewer.fireOpen(StructuredViewer.java:797)
+	at org.eclipse.jface.viewers.StructuredViewer.handleOpen(StructuredViewer.java:1116)
+	at org.eclipse.ui.navigator.CommonViewer.handleOpen(CommonViewer.java:454)
+	at org.eclipse.jface.util.OpenStrategy.fireOpenEvent(OpenStrategy.java:296)
+	at org.eclipse.jface.util.OpenStrategy$1.handleEvent(OpenStrategy.java:331)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4646)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1524)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1547)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1532)
+	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:1325)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4413)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3989)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1155)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:643)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:550)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:171)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:402)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+2023-04-17 16:05:28,471 [Worker-225: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 16:05:28,479 [Worker-225: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/main/resources
+2023-04-17 16:05:28,481 [Worker-225: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 16:05:28,484 [Worker-225: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/test/resources
+2023-04-17 16:05:34,197 [Worker-222: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 16:05:34,198 [Worker-222: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/main/resources
+2023-04-17 16:05:34,199 [Worker-222: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 16:05:34,199 [Worker-222: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/test/resources
+2023-04-17 16:05:51,276 [Worker-221: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 16:05:51,277 [Worker-221: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/main/resources
+2023-04-17 16:05:51,279 [Worker-221: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 16:05:51,280 [Worker-221: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/test/resources
+2023-04-17 16:10:14,744 [Worker-228: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 16:10:14,751 [Worker-228: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/main/resources
+2023-04-17 16:10:14,754 [Worker-228: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 16:10:14,756 [Worker-228: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/test/resources
+2023-04-17 16:10:21,278 [Worker-229: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 16:10:21,280 [Worker-229: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/main/resources
+2023-04-17 16:10:21,280 [Worker-229: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 16:10:21,281 [Worker-229: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/test/resources
+2023-04-17 16:12:11,524 [Worker-230: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 16:12:11,526 [Worker-230: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/main/resources
+2023-04-17 16:12:11,528 [Worker-230: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-17 16:12:11,529 [Worker-230: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dasha/Library/Mobile Documents/com~apple~CloudDocs/Java App/Java-Demo-Project/src/test/resources
