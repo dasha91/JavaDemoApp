@@ -99,10 +99,11 @@ public class TextDAO {
 	
 	public boolean updateText(String newText) {
 		connect(); 
-		String sql = String.format("UPDATE %s SET text = \'%s\'", tableName, newText);
+		String sql = String.format("UPDATE %s SET text = ?", tableName);
 		boolean rowUpdated = false;
 		try {
 			PreparedStatement statement = jdbcConnection.prepareStatement(sql);
+			statement.setString(1, newText);
 			rowUpdated = statement.executeUpdate() > 0;
 			statement.close();
 		} catch (SQLException e) {
